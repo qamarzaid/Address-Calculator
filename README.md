@@ -22,7 +22,7 @@ i.e., elements of 1st column, 2nd column, 3rd  column and so on till mth column
 ##### Code:
 ```python
  
-def oneD(B,D):
+def oneD(B,D):   
 	LB=int(input("enter Lower Bound : "))
 	index=int(input("Enter index :"))
 	a=B+(D*(I-LB))
@@ -86,4 +86,4 @@ else:
 	twoDB(base, data)
 ```
 
-
+```
