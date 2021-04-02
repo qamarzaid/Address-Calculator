@@ -34,7 +34,6 @@ def twoDR(B,D):
 	c=int(input("Enter no. of Column: "))
 	i=int(input("Enter i : "))
 	g
-	f
 	j=int(input("Enter j : "))
 	b=B+D*((i*c)+j)
 	print("2D Row -> ",b)
